@@ -31,17 +31,17 @@ myproject/
 
 ## 🖼️ Screenshots  
 
-### Detection Example 1  
-![Screenshot 1](objectdetection/screenshots/screenshot1.png)  
+### Homepage
+![Screenshot 1](screenshots/Screenshot1.png)
 
-### Detection Example 2  
-![Screenshot 2](objectdetection/screenshots/screenshot2.png)  
+### About
+![Screenshot 2](screenshots/Screenshot2.png)
 
-### Detection Example 3  
-![Screenshot 3](objectdetection/screenshots/screenshot3.png)  
+### Analyze
+![Screenshot 3](screenshots/Screenshot3.png)
 
-### Detection Example 4  
-![Screenshot 4](objectdetection/screenshots/screenshot4.png)  
+### Contact
+![Screenshot 4](screenshots/Screenshot4.png)
 
 ---
 
